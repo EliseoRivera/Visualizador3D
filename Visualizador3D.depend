@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1592443037 source:f:\eduaciontectoluca\visualizador3d\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"ClaseOpenGL.h"
+
+1592442903 f:\eduaciontectoluca\visualizador3d\include\claseopengl.h
+	<gl/gl.h>
+	<GL/GLU.h>
+	"Robot.h"
+	"modelo3D.h"
+
+1554358394 f:\eduaciontectoluca\visualizador3d\include\robot.h
+	"modelo3D.h"
+	<vector>
+	<cstdlib>
+
+1549253012 f:\eduaciontectoluca\visualizador3d\include\modelo3d.h
+	"Triangle3D.h"
+	"Matrix.h"
+	<fstream>
+	<iostream>
+	<gl/gl.h>
+	<GL/GLU.h>
+	<string>
+
+1511199740 f:\eduaciontectoluca\visualizador3d\include\triangle3d.h
+	"vector3d.h"
+
+1511199740 f:\eduaciontectoluca\visualizador3d\include\vector3d.h
+	<math.h>
+
+1554352794 f:\eduaciontectoluca\visualizador3d\include\matrix.h
+	"vector3d.h"
+	<iostream>
+
+1554352792 source:f:\eduaciontectoluca\visualizador3d\src\matrix.cpp
+	"Matrix.h"
+
+1549252980 source:f:\eduaciontectoluca\visualizador3d\src\modelo3d.cpp
+	"modelo3D.h"
+	<gl/gl.h>
+	<stdint.h>
+
+1554363618 source:f:\eduaciontectoluca\visualizador3d\src\robot.cpp
+	"Robot.h"
+
+1511199740 source:f:\eduaciontectoluca\visualizador3d\src\triangle3d.cpp
+	"Triangle3D.h"
+
+1511199740 source:f:\eduaciontectoluca\visualizador3d\src\vector3d.cpp
+	"vector3d.h"
+	<iostream>
+
+1549260324 source:f:\eduaciontectoluca\visualizador3d\src\vectornd.cpp
+	"vectornd.h"
+	<iostream>
+
+1549260006 f:\eduaciontectoluca\visualizador3d\include\vectornd.h
+	<math.h>
+
+1592443011 source:f:\eduaciontectoluca\visualizador3d\src\claseopengl.cpp
+	"ClaseOpenGL.h"
+
